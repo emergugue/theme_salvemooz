@@ -4454,6 +4454,8 @@ a.logo-portada h1{
 /* =Article
 -------------------------------------------------------------- */
 article {
+  margin-bottom: 0px;
+  padding-bottom: 0px;
 }
   .from-the-blog article {
     font-size: 14px;
