@@ -596,6 +596,7 @@ footer.footer-sz .redes-sociales{
 }
 footer.footer-sz .copyright p{
   text-align: center;
+  color: #fff;
 }
 footer .copyright a{
   color: #b5e3ff
@@ -606,6 +607,7 @@ footer .copyright a:hover{
 footer.footer-sz .redes-sociales p{
   display: inline-block;
   vertical-align: text-bottom;
+  color: #fff;
 }
 footer.footer-sz ul{
   padding: 0px;
@@ -4972,8 +4974,7 @@ iframe {
 /* =Footer
 -------------------------------------------------------------- */
 #footer {
-  border-top: 1px solid #000;
-  background: #222;
+  background: #0267A1;
   color: #7B7B7B;
   font-size: 13px;
   position: relative;
@@ -4984,7 +4985,7 @@ iframe {
     margin-bottom: 0; }
   #footer a,
   #footer a .text-muted {
-    color: #7B7B7B; }
+    color: #fff; }
   #footer #footer-content {
     padding-top: 15px;
     padding-bottom: 15px; }
@@ -4994,7 +4995,7 @@ iframe {
         float: none !important;
         text-align: center; } }
   #footer .copyright a {
-    color: #aaa; }
+    color: #fff; }
   #footer .credit-link {
     position: relative; }
   #footer .fa-leaf {
