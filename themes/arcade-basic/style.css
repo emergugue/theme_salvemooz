@@ -587,6 +587,9 @@ a.btn-donar {
   font-size: 24px !important;
   background: #007bc3 !important;
 }
+.ssba-wrap{
+  margin-bottom: 30px;
+}
 footer .copyright, footer .redes-sociales{
   padding: 10px 15px;
   overflow: auto;
