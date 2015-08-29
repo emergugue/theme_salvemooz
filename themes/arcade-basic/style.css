@@ -576,6 +576,12 @@ dd {
   margin-bottom: 0px !important;
   margin-top: 20px;
 }
+.row-apoyanos a{
+  color: #fff !important;
+}
+.row-apoyanos a:hover, .row-apoyanos a:active, .row-apoyanos a:focus{
+  color: #ceedff !important;
+}
 a.btn-donar {
   padding: 15px 60px !important;
   font-size: 24px !important;
